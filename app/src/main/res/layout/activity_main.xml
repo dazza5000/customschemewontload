@@ -11,7 +11,7 @@
         android:id="@+id/urlInput"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="Enter URL"
+        android:text="https://www.well.co/samsclub"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
